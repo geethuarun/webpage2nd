@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@200&family=Roboto:ital,wght@0,300;0,400;0,500;1,100&display=swap');
+
+
+body{
+    margin: 0;
+    font-family: 'Anton', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.nav-item a:hover{
+    color: green;
+}
+.carousel-item img{
+    height:600px;
+    
+
+}
+.card img{
+    height:60%;
+}
+.card{
+    width:30%;
+}
+
+.wtdthcard{
+    width: 100%;
+}
